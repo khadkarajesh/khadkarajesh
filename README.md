@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💬 Ask me about Python, Flask, Postgresql, Android, Flutter
+- 💬 Ask me about Python, Flask, Postgresql, Machine Learning, Data Science
 - 📫 How to reach me: linkedin https://www.linkedin.com/in/rajeshkhadka/
 
 
