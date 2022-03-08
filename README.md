@@ -2,7 +2,7 @@
 
 ## <img src="https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif" width="60px">
 
-### Data Science and Machine Learning
+### Data Science & Machine Learning
 - Built Data Ingestion pipleline using AirFlow
 - Familiar with Data and Model Versoning
 - Capable of collection and processing of heterogenous data sources
