@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Things done so far
+## <img src="https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif" width="60px">
 
 ### Data Science and Machine Learning
 - Built Data Ingestion pipleline using AirFlow
