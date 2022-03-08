@@ -17,11 +17,11 @@
 - Built RestFul services for several clients: Mobile App, Web App
 - Expertise on backend technologies: Flask, Flask-RestFul, AWS, PostgreSQL
 - Experinced in Working NoSQL Databases: Mongodb, Firestore
-- Built SAAS platform
-- Familiar with Docker
 - Familiar with Deployment of application on AWS, Heroku, DigitalOcean
 - Comfortable with Linux, Nginx, Bash, Shell Script
 - Experineced on optimising relational database
+- Worked on SAAS platform
+- Familiar with Docker
 
 ### Mobile Development
 - Spent 4+yrs on building mobile application
