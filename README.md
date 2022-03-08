@@ -37,6 +37,7 @@
 ## Want to Collaborate
 - Convince me your idea, ready to jump ...
 - Open to collborate on open source projects: Libraries, Utility App, Framework etc..
+- Open for Remote Opportunity  
 
 ## Stats
 
