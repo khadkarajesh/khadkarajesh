@@ -23,7 +23,7 @@
 - Comfortable with Linux, Nginx, Bash, Shell Script
 - Experineced on optimising relational database
 
-### Mobile Application Development
+### Mobile Development
 - Spent 4+yrs on building mobile application
 - Experienced in building large scale application 
 - Worked on Android, Flutter
