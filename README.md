@@ -5,9 +5,9 @@
 ### Data Science & Machine Learning
 - Built Data Ingestion pipleline using AirFlow
 - Familiar with Data and Model Versoning
-- Capable of collection and processing of heterogenous data sources
+- Capable of collecting and processing of data's from heterogenous sources
 - Built an Machine Learning Model for recommendation system and Exposed through API
-- Not expert, Can work on Deep Learning, Computer Vision, Natural Language Processing
+- Not expert, Can work on Deep Learning, Computer Vision, Natural Language Processing till production
 
 ### Backend Development
 - Spent 3+yrs on Building backend services
