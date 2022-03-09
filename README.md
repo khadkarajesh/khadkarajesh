@@ -9,9 +9,6 @@
 - Built an Machine Learning Model for recommendation system and Exposed through API
 - Not expert, Can work on Deep Learning, Computer Vision, Natural Language Processing
 
-#### Interest
-- Full Stack Engineer is evolving area in Data Science and Machine Learning Domain, I want to be part of that.
-
 ### Backend Development
 - Spent 3+yrs on Building backend services
 - Built RestFul services for several clients: Mobile App, Web App
