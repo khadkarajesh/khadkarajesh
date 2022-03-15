@@ -3,25 +3,25 @@
 ## <img src="https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif" width="60px">
 
 ### Data Science & Machine Learning
-- Built Data Ingestion pipleline using AirFlow
-- Familiar with Data and Model Versoning
-- Capable of collecting and processing of data's from heterogenous sources
-- Built an Machine Learning Model for recommendation system and Exposed through API
-- Not expert, Can work on Deep Learning, Computer Vision, Natural Language Processing till production
+- Built Data Ingestion pipeline using AirFlow
+- Familiar with Data and Model Versioning
+- Capable of collecting and processing data from heterogeneous sources
+- Built a Machine Learning Model for recommendation system and Exposed through API
+- Not expert Can work on Deep Learning, Computer Vision, Natural Language Processing till production
 
 ### Backend Development
 - Spent 3+yrs on Building backend services
 - Built RestFul services for several clients: Mobile App, Web App
-- Expertise on backend technologies: Flask, Flask-RestFul, AWS, PostgreSQL
-- Experinced in Working NoSQL Databases: Mongodb, Firestore
-- Familiar with Deployment of application on AWS, Heroku, DigitalOcean
+- Expertise in backend technologies: Flask, Flask-RestFul, AWS, PostgreSQL
+- Experienced in Working NoSQL Databases: MongoDB, Firestore
+- Familiar with Deployment of applications on AWS, Heroku, DigitalOcean
 - Comfortable with Linux, Nginx, Bash, Shell Script
-- Experineced on optimising relational database
+- Experienced on optimizing relational database
 - Worked on SAAS platform
 - Familiar with Docker
 
 ### Mobile Development
-- Spent 4+yrs on building mobile application
+- Spent 4+yrs on building a mobile application
 - Experienced in building large scale application 
 - Worked on Android, Flutter
 - Programming Languages: Java, Kotlin, Dart
