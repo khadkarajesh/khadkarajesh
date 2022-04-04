@@ -7,7 +7,7 @@
 - Familiar with Data and Model Versioning
 - Capable of collecting and processing data from heterogeneous sources
 - Built a Machine Learning Model for recommendation system and Exposed through API
-- Not expert Can work on Deep Learning, Computer Vision, Natural Language Processing till production
+- Knowledge on Deep Learning, Computer Vision, Natural Language Processing till production
 
 ### Backend Development
 - Spent 3+yrs on Building backend services
