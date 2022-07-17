@@ -12,13 +12,13 @@
 ### Backend Development
 - Spent 3+yrs on Building backend services
 - Built RestFul services for several clients: Mobile App, Web App
-- Expertise in backend technologies: Flask, Flask-RestFul, AWS, PostgreSQL
+- Expertise in backend technologies: Flask, Django, AWS, GCP, PostgreSQL
 - Experienced in Working NoSQL Databases: MongoDB, Firestore
 - Familiar with Deployment of applications on AWS, Heroku, DigitalOcean
 - Comfortable with Linux, Nginx, Bash, Shell Script
 - Experienced on optimizing relational database
 - Worked on SAAS platform
-- Familiar with Docker
+- Worked with Docker
 
 ### Mobile Development
 - Spent 4+yrs on building a mobile application
