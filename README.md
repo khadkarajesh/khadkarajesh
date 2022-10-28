@@ -10,7 +10,7 @@
 - Knowledge on Deep Learning, Computer Vision, Natural Language Processing till production
 
 ### Backend Development
-- Spent 3+yrs on Building backend services
+- Spent 4+yrs on Building backend services
 - Built RestFul services for several clients: Mobile App, Web App
 - Expertise in backend technologies: Flask, Django, AWS, GCP, PostgreSQL
 - Experienced in Working NoSQL Databases: MongoDB, Firestore
