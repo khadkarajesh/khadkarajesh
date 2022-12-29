@@ -2,13 +2,6 @@
 
 ## <img src="https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif" width="60px">
 
-### Data Science & Machine Learning
-- Built Data Ingestion pipeline using AirFlow
-- Familiar with Data and Model Versioning
-- Capable of collecting and processing data from heterogeneous sources
-- Built a Machine Learning Model for recommendation system and Exposed through API
-- Knowledge on Deep Learning, Computer Vision, Natural Language Processing till production
-
 ### Backend Development
 - Spent 4+yrs on Building backend services
 - Built RestFul services for several clients: Mobile App, Web App
