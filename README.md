@@ -8,7 +8,7 @@
 - Expertise in backend technologies: Flask, FastAPI, Django, AWS, GCP, PostgreSQL
 - Experienced in Working NoSQL Databases: MongoDB, Firestore
 - Familiar with Deployment of applications on AWS, Heroku, DigitalOcean
-- Comfortable with Linux, Nginx, Bash, Shell Script
+- Comfortable with Linux, Nginx, Shell Script
 - Experienced on optimizing relational database
 - Worked on SAAS platform
 - Worked with Docker
